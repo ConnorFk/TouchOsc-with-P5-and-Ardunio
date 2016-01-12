@@ -1,0 +1,4 @@
+In this repository, I am using TouchOsc in my phone to create two push buttons to control the forward and backward rotation of servo in arduino. 
+
+About TouchOsc:
+If you don’t have TouchOsc, you can download it in app store and it only cost around 5$. Plus: you need to edit the TouchOsc surface in TouchOsc editor which you can download it here: http://hexler.net/software/touchosc
